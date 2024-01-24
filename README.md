@@ -1,1 +1,1 @@
-### Created Sentiment Analysis app for determining text sentiments using RoBerta Model, and deployed it on streamlit app
+### Created Sentiment Analysis app for determining text sentiments using RoBerta Model. Used Streamlit Library to Provide User Interface
